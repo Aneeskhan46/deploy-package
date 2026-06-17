@@ -4,7 +4,7 @@ import 'my-anees-package/style.css'; // if they need the styles
 function App() {
   return (
     <div>
-      <h2>Testing the package </h2>
+      <h2 style={{color:"red",fontWeight:"bold",textAlign:"center"}}>Anees Testing the package </h2>
       <br></br>
        <CustomMathEditor />
     </div>
